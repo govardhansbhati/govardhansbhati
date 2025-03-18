@@ -25,4 +25,20 @@ Let's connect and collaborate on exciting projects!
 ## 💡 Fun Fact
 When I'm not coding, I enjoy exploring new animation techniques and bringing creative ideas to life!
 
+### GitHub Stats
 
+![Govardhan Singh Github Stats](https://github-readme-stats.vercel.app/api?username=govardhansbhati&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govardhansbhati&layout=compact&theme=radical)
+
+### Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=govardhansbhati&theme=radical)
+
+### Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=govardhansbhati&theme=radical)
+
+---
