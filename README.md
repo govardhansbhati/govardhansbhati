@@ -33,12 +33,6 @@ When I'm not coding, I enjoy exploring new animation techniques and bringing cre
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govardhansbhati&layout=compact&theme=radical)
 
-### Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=govardhansbhati&theme=radical)
-
-### Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=govardhansbhati&theme=radical)
 
 ---
