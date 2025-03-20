@@ -34,5 +34,10 @@ When I'm not coding, I enjoy exploring new animation techniques and bringing cre
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govardhansbhati&layout=compact&theme=radical)
 
 
+# My GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=govardhansbhati&theme=dark&hide_border=true)
+
+🔥 Keep the streak alive!
 
 ---
