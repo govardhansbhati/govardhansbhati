@@ -41,3 +41,7 @@ When I'm not coding, I enjoy exploring new animation techniques and bringing cre
 🔥 Keep the streak alive!
 
 ---
+
+[![An image of @govardhansbhati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/govardhansbhati)](https://holopin.io/@govardhansbhati)
+
+
